@@ -1,2 +1,2 @@
-# webapptask1 <h1> tag
-# /images/eagle.jpg
+# webapptask1
+![Image of Eagle](https://danielwebimp.github.com/images/eagle.jpg)
